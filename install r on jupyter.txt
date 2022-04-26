@@ -1,3 +1,0 @@
-install.packages("devtools")
-devtools::install_github("IRkernel/IRkernel",force=TRUE)
-IRkernel::installspec()
